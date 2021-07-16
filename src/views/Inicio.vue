@@ -35,16 +35,11 @@ section
     .titulo__template--a.mb-4
       span.h4 1. Presentación
 
-    p Sea bienvenido a la estrategia del SENA digital, Desarrollo de Habilidades Digitales  para Construcción de Contenido Digital. Mediante la cual vas a fortalecer habilidades y destrezas asociadas con el manejo de recursos y servicios de las Tecnologías de la Información y la Comunicación, TIC.
-    
-    p Estas habilidades digitales son desarrolladas a través de una ruta de aprendizaje que consta de cuatro programas: desarrollo de habilidades digitales para la gestión de información, desarrollo de habilidades digitales para la creación de contenido digital, desarrollo de habilidades digitales para la comunicación y la colaboración en línea, y desarrollo de habilidades digitales para experiencias seguras en línea.
+    p ¡Hola! La producción de contenidos digitales, hace un tiempo, sólo estaba disponible para profesionales y empresas con los recursos suficientes para producirlos.
 
-    p Este es el primer curso al que se podrá ingresar digitando el documento de identidad y la clave otorgada. El curso está compuesto por tres componentes formativos los cuales son: dispositivos y TIC; navegadores y buscadores; correo electrónico, redes sociales y almacenamiento en la nube. Se debe recorrer y estudiar cada uno de ellos y luego desarrollar las tres evaluaciones correspondientes, una vez aprobadas, se logra la certificación de este curso, lo cual permite continuar en la ruta formativa.
+    p Hoy en día, los avances en temas tecnológicos nos permiten tener a la mano herramientas y plataformas con las que cualquier persona, con disposición de aprendizaje y un objetivo claro de comunicación y conexión a internet, tendrá todo lo necesario para la producción y distribución de contenidos.
 
-    p El curso está basado en el aprendizaje autogestionable, lo que quiere decir que, como aprendiz usted es responsable de la gestión académica a través del desarrollo de un rol activo en el estudio de los diferentes temas y el desarrollo de las actividades y evaluaciones, las cuales están encaminadas a promover las competencias propuestas en el programa. Para cumplir con esta función, el curso lo guía de manera práctica y puntual a través de recursos formativos estructurados y apoyados en las TIC.  Para resolver dudas o inquietudes sobre el manejo del curso, se debe consultar el documento de preguntas frecuentes, el cual se encuentra en el foro de dudas.
-
-    p Le deseamos muchos éxitos en el desarrollo del curso, el cual le ayudará a desarrollar habilidades en la interacción con recursos digitales y el aprovechamiento de acciones en contextos digitales, para el uso de la web, el software, las herramientas para trabajar en la nube y los procesos virtuales.
-
+    p Soy Jesualdo Morantes, quien los acompañará en el curso de desarrollo de habilidades para la producción de contenidos digitales, donde identificaremos algunos conceptos básicos, y de manera práctica, aprenderemos el flujo de trabajo que nos permitirá construir piezas digitales, desde la planeación, el uso de herramientas, producción y publicación de contenidos.
   
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
